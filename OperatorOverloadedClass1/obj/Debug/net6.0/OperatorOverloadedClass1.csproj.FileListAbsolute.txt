@@ -1,0 +1,15 @@
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\bin\Debug\net6.0\OperatorOverloadedClass1.exe
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\bin\Debug\net6.0\OperatorOverloadedClass1.deps.json
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\bin\Debug\net6.0\OperatorOverloadedClass1.runtimeconfig.json
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\bin\Debug\net6.0\OperatorOverloadedClass1.dll
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\bin\Debug\net6.0\OperatorOverloadedClass1.pdb
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\OperatorOverloadedClass1.csproj.AssemblyReference.cache
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\OperatorOverloadedClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\OperatorOverloadedClass1.AssemblyInfoInputs.cache
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\OperatorOverloadedClass1.AssemblyInfo.cs
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\OperatorOverloadedClass1.csproj.CoreCompileInputs.cache
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\OperatorOverloadedClass1.dll
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\refint\OperatorOverloadedClass1.dll
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\OperatorOverloadedClass1.pdb
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\OperatorOverloadedClass1.genruntimeconfig.cache
+C:\Users\arapt\Desktop\programming\misc\OperatorOverloadedClass1\OperatorOverloadedClass1\obj\Debug\net6.0\ref\OperatorOverloadedClass1.dll
